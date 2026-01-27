@@ -146,6 +146,7 @@ After reading through the top terms found in each cluster, we were able to ident
 - **Theme 4**: a more general concern with perceived Islamization of the US. The presence of "Texas" yet again may further confirm heightened attention around Texas specifically as what Islamophobes posit as a battleground of site of struggle against the alleged Islamization of America
 
 We measure the salience of each of these themes by graphing their relative engagement according to `Likes` and `Retweets`:
+
 ![Bar Chart](https://github.com/momopajamas/MPAC_project/blob/main/images/theme_engagement_graph.png?raw=true)
 
 Based on these findings, we synthesize our assessments into the following insights:
