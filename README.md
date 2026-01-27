@@ -1,5 +1,5 @@
 # **Currents in Islamophobic Rhetoric**
-### *Analyzing Currents in Online Anti-Muslim Discourse*
+### *Analyzing Trends in Online Anti-Muslim Discourse*
 - **Author:** Mohammad Abou-Ghazala
 - **Date:** January, 2026
 
