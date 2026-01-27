@@ -158,7 +158,7 @@ Based on these findings, we synthesize our assessments into the following insigh
 **3. There remains, or there is a resurgence of, a more general fear of Islamization and Shariah Law**, which could feasibly be in part informed by the wider rise in xenophobia and anti-immigrant sentiments.
 
 # Conclusion
-We successfully build a binary classifier with an impressive Recall score capable of extracting Islamophobic tweets from our dataset while minimizing False Positives, and then performed Topic Modeling on those classified tweets to extract themes. 
+We successfully built a binary classifier with an impressive Recall score capable of extracting Islamophobic tweets from our dataset while minimizing False Positives, and then performed Topic Modeling on those classified tweets to extract themes. 
 
 ### Insight Learned
 We were able to synthesize our findings into the following insights:
