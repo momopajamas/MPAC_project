@@ -146,9 +146,11 @@ After reading through the top terms found in each cluster, we were able to ident
 - **Theme 4**: a more general concern with perceived Islamization of the US. The presence of "Texas" yet again may further confirm heightened attention around Texas specifically as what Islamophobes posit as a battleground of site of struggle against the alleged Islamization of America
 
 We measure the salience of each of these themes by graphing their relative engagement according to `Likes` and `Retweets`:
+
 ![Bar Chart](https://github.com/momopajamas/MPAC_project/blob/main/images/theme_engagement_graph.png?raw=true)
 
 Based on these findings, we synthesize our assessments into the following insights:
+
 **1. The current state of Islamophobic discourse online is fueled to a significant degree by localized developments and concerns**, specifically Dearborn, MI and to a larger extent, Texas.
 
 **2. Geopolitical developments in the Middle East are informing domestic attitudes towards Islam in the US**, as reflected in the prominence of tweets pertaining to perceived threats from the Muslim Brotherhood and an alleged connection with Muslim civil rights organizations.
@@ -156,7 +158,7 @@ Based on these findings, we synthesize our assessments into the following insigh
 **3. There remains, or there is a resurgence of, a more general fear of Islamization and Shariah Law**, which could feasibly be in part informed by the wider rise in xenophobia and anti-immigrant sentiments.
 
 # Conclusion
-We successfully build a binary classifier with an impressive Recall score capable of extracting Islamophobic tweets from our dataset while minimizing False Positives, and then performed Topic Modeling on those classified tweets to extract themes. 
+We successfully built a binary classifier with an impressive Recall score capable of extracting Islamophobic tweets from our dataset while minimizing False Positives, and then performed Topic Modeling on those classified tweets to extract themes. 
 
 ### Insight Learned
 We were able to synthesize our findings into the following insights:
