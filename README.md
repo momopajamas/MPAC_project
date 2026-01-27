@@ -149,6 +149,7 @@ We measure the salience of each of these themes by graphing their relative engag
 ![Bar Chart](https://github.com/momopajamas/MPAC_project/blob/main/images/theme_engagement_graph.png?raw=true)
 
 Based on these findings, we synthesize our assessments into the following insights:
+
 **1. The current state of Islamophobic discourse online is fueled to a significant degree by localized developments and concerns**, specifically Dearborn, MI and to a larger extent, Texas.
 
 **2. Geopolitical developments in the Middle East are informing domestic attitudes towards Islam in the US**, as reflected in the prominence of tweets pertaining to perceived threats from the Muslim Brotherhood and an alleged connection with Muslim civil rights organizations.
