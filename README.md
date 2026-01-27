@@ -222,4 +222,4 @@ We can take this investigation further in the future through the following steps
 ## Navigation
 - [Jupyter Notebook](https://github.com/momopajamas/MPAC_project/blob/main/notebook.ipynb)
 - [Images & Visualizations](https://github.com/momopajamas/MPAC_project/tree/main/images)
-- [Non-Technical Presentation]()
+- [Non-Technical Presentation](https://github.com/momopajamas/MPAC_project/blob/main/presentation/anti-islam_currents_presentation.pdf)
