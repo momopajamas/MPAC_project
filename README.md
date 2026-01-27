@@ -175,10 +175,42 @@ Answer: ***Yes**, we were able to ascertain tangible themes contained within the
 Answer: ***Yes**, we were able to understand social and political causes animating major currents in Islamophobic discourse, and can effectively use this deeper understanding to inform recommendations to interested actors.*
 
 ## Limitations
+There were three categories of limitations we faced:
+#### Limitation 1: Dataset
+Since we were not in control of how the data was collected and are not privy to the methodology behind it, there are a number of **limitations on our investigation arising from the dataset**:
+1. We do not know the degree of its veracity or how representative it is. 
+2. There is an imbalance in the dates the tweets were collected, and we can't credibly investigate trends over time.
+3. There is an outsized presence of a handful of virulent Islamophobic personalities, such as Amy Menk or Laura Loomer, which more than likely skewed our classifier's ability to understand the nuances of Islamophobic discourse. 
+4. Many of the tweets contained photos with text that was not transcribed, so we were unable to factor in the language used on those photos in our modeling.
+
+#### Limitation 2: Scope of the Project
+Furthermore, our decision to zero in on a strict definition of Islamophobia allowed us to be more focused in our modeling, but most likely caused us to miss more nuanced topics:
+1. To what extent is a xenophobic fear of certain immigrant communities tied to Islamophobia?
+2. In what ways does more subtle forms of Islamophobia inform opinions on international matters?
+
+#### Limitation 3: Time and Resources
+Due to **limited hardware and time constraints we chose to prioritize efficiency** over the course of this project, impacting us in the following ways:
+1. Classifier Performance - We only tested two binary classifiers over the course of this project. With more time, we could have tested a few more to compare performance. Furthermore, we could not spend time tuning the models' hyperparameters to maximize efficacy.
+3. Target Labeling - We were forced to rely on a small subset of manually labeled tweets, impacting the efficacy of our models. Moreover, with a larger labeled set we could have focused more on Topic Modeling.
+4. Hardware - With stronger hardware, we could have deployed more effective models on our data, such as BERT models that are specifically designed to handle social media text and tweets in particular. 
 
 ## Recommendations
+Based on our synthesized insights above we confidently recommend the following:
+
+#### Recommendation 1
+Urge local and national community leaders to invest in efforts to market densely-populated Muslim communities towards non-Muslims to assuage fears and build tangible connections that can over time foster understanding. This is especially applicable to Texas in the case of the EPIC City project.
+
+#### Recommendation 2
+Intensify efforts by Muslim civil rights organizations to emphasize their 'American-ness' by investing in a communications strategy that more explicitly references American values and pillars, and by more intentionally posturing as being inseparable from of American society and body politic, and more visibly disavowing any connections to foreign entities.
+
+#### Recommendation 3
+Related to Recommendation 2, is to promote engagement in intercommunal and interfaith initiatives to foster understanding between Muslims and non-Muslims with an aim to minimize fears of Islamization and concepts like Shariah Law.
 
 ## Next Steps
+We can take this investigation further in the future through the following steps:
+1. Invest in hardware capable of running more sophisticated models like BERT for more thorough and efficient processing of tweets and social media posts.
+2. Revamp our dataset so it is more comprehensively representative of wider discourse in the following ways.
+3. Deepen the potency of our insights by locating potential intersections between Islamophobic discourse and other manifestations of hate, such as antisemitism or xenophobia, in order to apprehend any reinforcing relationships between different forms of online hate.
 
 # Appendix
 ### Sources
