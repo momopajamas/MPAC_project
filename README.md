@@ -8,7 +8,7 @@
 ([*Image Source*](https://nysba.org/islamophobia-surges-in-the-u-s-due-to-global-and-national-tensions/?srsltid=AfmBOooMQkb1x343wsT1sVo5tCbEgvzjFDnUVsFsK4r-afxU8pNhnb2j))
 
 # I. Introduction
-With the upsurge in Islamophobia rhetoric in recent months that is starkly reminiscient of a post-9/11 climate in the US and the West, the Muslim Public Affairs Committee (MPAC) has tasked the Center for Security, Technology, and Policy (CSTP) with locating trends within this discourse.
+With the upsurge in Islamophobia rhetoric in recent months that is starkly reminiscient of a post-9/11 climate in the US and the West, the Muslim Public Affairs Committee (MPAC) has tasked the us with locating trends within this discourse.
 
 ## Problem Understanding
 Our goal is to identify dominant themes underpinning online Islamophobic discourse to better inform research and policy recommendations. Specifically, we **focus on extracting actionable insights by identifying recurring language patterns, narratives frames, and potential changes in discourse that can support effective advocacy, monitoring, and community responses**. 
